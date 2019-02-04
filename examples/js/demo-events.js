@@ -1,8 +1,7 @@
 var eventsData = [{
-    "title": "Zaporojie Turu",
+    "title": "MARA",
     "startdate": "2016/07/21",
     "enddate": "2016/07/26",
-    "url": "http://www.example.com/1",
     "type": "Tur",
     "minNight": "4",
     "price": {
