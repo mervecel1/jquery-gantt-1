@@ -1,5 +1,5 @@
 var eventsData = [{
-    "title": "MARA",
+    "title": "Zaporojie Turu",
     "startdate": "2016/07/21",
     "enddate": "2016/07/26",
     "type": "Tur",
